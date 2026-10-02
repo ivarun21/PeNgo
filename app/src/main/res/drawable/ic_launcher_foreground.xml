@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Body -->
+    <path
+        android:fillColor="#FF20242B"
+        android:pathData="M54,26C41.5,26 33,36 33,50L33,66C33,77 42,84 54,84C66,84 75,77 75,66L75,50C75,36 66.5,26 54,26Z" />
+    <!-- Belly -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,40C46,40 41,46 41,54L41,66C41,73 47,78 54,78C61,78 67,73 67,66L67,54C67,46 62,40 54,40Z" />
+    <!-- Eyes -->
+    <path
+        android:fillColor="#FF20242B"
+        android:pathData="M48,49m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#FF20242B"
+        android:pathData="M60,49m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M49,48m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M61,48m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <!-- Beak -->
+    <path
+        android:fillColor="#FFFFB547"
+        android:pathData="M49,55L59,55L54,61Z" />
+    <!-- Feet -->
+    <path
+        android:fillColor="#FFFFB547"
+        android:pathData="M44,82L52,82L48,86Z" />
+    <path
+        android:fillColor="#FFFFB547"
+        android:pathData="M56,82L64,82L60,86Z" />
+    <!-- Cheeks -->
+    <path
+        android:fillColor="#FFF095FF"
+        android:pathData="M45,57m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+    <path
+        android:fillColor="#FFF095FF"
+        android:pathData="M63,57m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+</vector>

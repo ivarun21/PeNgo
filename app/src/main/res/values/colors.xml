@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pengo_background">#FFF4F6F8</color>
+    <color name="pengo_blue">#FF64A1FF</color>
+    <color name="pengo_cyan">#FF8BFCFE</color>
+    <color name="pengo_ink">#FF20242B</color>
+</resources>
